@@ -49,7 +49,7 @@ with st.sidebar:
     st.title("🧠 Resume Analyzer AI")
     st.markdown("Upload your resume to get AI feedback, match score and learning resources.")
     st.image("https://cdn-icons-png.flaticon.com/512/942/942748.png", width=150)
-    st.markdown("Developed with ❤️ by **Sandesh**")
+
     st.markdown("---")
     st.markdown("🔗 [GitHub](https://github.com) | 🌐 [Portfolio](https://yourportfolio.com)")
 
