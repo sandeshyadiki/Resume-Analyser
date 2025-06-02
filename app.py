@@ -51,7 +51,7 @@ with st.sidebar:
     st.image("https://cdn-icons-png.flaticon.com/512/942/942748.png", width=150)
 
     st.markdown("---")
-    st.markdown("🔗 [GitHub](https://github.com) | 🌐 [Portfolio](https://yourportfolio.com)")
+    st.markdown("🔗 [GitHub](https://github.com/sandeshyadiki/Resume-Analyser.git) | 🌐 [Portfolio](https://yourportfolio.com)")
 
 # -------------------------------
 # 🧾 Main Header
